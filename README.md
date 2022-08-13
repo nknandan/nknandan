@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Nandan N K !!
 
-I am a Computer Science and Engineering student at College of Engineering Trivandrum. A highly motivated student and a proactive learner. Always ready to learn new technologies and ways to adapt them in field of interest. A team-player who can also work independently.
+I am a quality focused and results-driven Computer Science & Engineering student. Enthusiastic in learning latest
+technologies to build innovative and user-friendly solutions.
 <br />
 
 <!--
